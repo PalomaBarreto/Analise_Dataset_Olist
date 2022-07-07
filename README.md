@@ -7,3 +7,5 @@
 
 <h2 align="center">Sobre os Dados ⁉ </h2>
 <p align="center">Este é um banco de dados público disponibilizado pela Olist. Contém informações de 100 mil pedidos realizados entre 2016 a 2018 em vários marketplaces no Brasil. São dados comerciais reais e foram anonimizados. Textos citando empresas e parceiros foram substituídos por nomes das grandes casas de Game of Thrones.
+
+<img width='900px' src='./data/dataset.png'>
